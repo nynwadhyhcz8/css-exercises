@@ -41,7 +41,6 @@ body {
   font-size: 32px;
   font-weight: 900;
 }
-
 .body {
   flex: 1;
   display: flex;
@@ -50,6 +49,7 @@ body {
 .sidebar {
   flex-shrink: 0;
   padding: 16px;
+
 }
 
 ul {
